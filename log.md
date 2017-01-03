@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 2, 2017
+### Day 0: Jan 2nd, 2017
 
 **Today's Progress**:
 
@@ -10,3 +10,12 @@
 
 **Link where I stopped:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
 
+
+### Day 1: Jan 3rd, 2017
+
+**Today's Progress**:
+
+**Thoughts:** Practice makes perfect.
+
+**Link to work:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
+**Link where I stopped:** 
