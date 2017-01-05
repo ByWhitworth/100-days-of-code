@@ -9,7 +9,7 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element
 
-**Link where I stopped:** https://www.freecodecamp.com/challenges/create-bootstrap-wells#
+**Link where I stopped:** https://www.freecodecamp.com/challenges/build-a-tribute-page
 
 ### Day 2: Jan 4th, 2017
 
