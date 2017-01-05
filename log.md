@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+
+### Day 3: Jan 5th, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element
+
+**Link where I stopped:** 
+
+### Day 2: Jan 4th, 2017
+
+**Today's Progress**: Didn't have time to code also had some bad eye strain issues. 
+
+
+### Day 1: Jan 3rd, 2017
+
+**Today's Progress**:
+
+**Thoughts:** Practice makes perfect. Just a bunch of Form / Label elements. 
+
+**Link to work:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
+**Link where I stopped:** https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element
+
+
 ### Day 0: Jan 2nd, 2017
 
 **Today's Progress**:
@@ -11,11 +37,5 @@
 **Link where I stopped:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
 
 
-### Day 1: Jan 3rd, 2017
 
-**Today's Progress**:
 
-**Thoughts:** Practice makes perfect. Just a bunch of Form / Label elements. 
-
-**Link to work:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
-**Link where I stopped:** https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element
