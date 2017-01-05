@@ -6,6 +6,7 @@
 **Today's Progress**:
 
 **Thoughts:** Bootstrap and Font-awesome. Started to build out a Alan Turing Tribute Page on CodePen.io 
+
 **Link to Codepen project**: http://codepen.io/bywhitworth/pen/MJYzYz
 
 **Link to work:** https://www.freecodecamp.com/challenges/add-a-negative-margin-to-an-element
