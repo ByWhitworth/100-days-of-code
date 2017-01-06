@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: Jan 6th, 2017
+
+**Today's Progress**:
+
+**Thoughts:** Alan Turing Tribute Page on CodePen.io 
+
+**Link to Codepen project**: http://codepen.io/bywhitworth/pen/MJYzYz
+
+
 ### Day 3: Jan 5th, 2017
 
 **Today's Progress**:
