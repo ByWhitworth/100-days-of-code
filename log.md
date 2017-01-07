@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: Jan 6th, 2017
+
+**Today's Progress**:
+
+**Thoughts:** Alan Turing Tribute Page on CodePen.io. I've also purchased React for Beginners and hopefully be starting that up also. Still working on the tribute site just because I need make sure everything is perfect. :/ 
+
+**Link to Codepen project**: http://codepen.io/bywhitworth/pen/MJYzYz
 
 ### Day 4: Jan 6th, 2017
 
