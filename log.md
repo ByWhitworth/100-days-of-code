@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 4: Jan 6th, 2017
+### Day 7: Jan 9th, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to Codepen project**: http://codepen.io/bywhitworth/pen/MJYzYz
+
+
+### Day 6: Jan 8th, 2017
+
+**Today's Progress**: Messing with some gird layouts, but no really huge progress. 
+
+**Thoughts:** I feel like somes the fact that I want things to be perfect can be a disadvantage in my ability to build, but that's just a mindset that I can easily change. 
+
+**Link to Codepen project**: http://codepen.io/bywhitworth/pen/MJYzYz
+
+
+### Day 5: Jan 7th, 2017
 
 **Today's Progress**:
 
